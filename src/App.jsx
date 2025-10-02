@@ -1,5 +1,5 @@
 import { useState } from "react";
-
+// task 2 api fetching
 const App=()=>{
   const [name,setname]= useState("sonu singh");
   const handle=()=>{
